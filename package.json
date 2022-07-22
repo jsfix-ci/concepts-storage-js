@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "entitizer.utils": "^0.0.1",
-    "mongoose": "^4.1.7",
+    "mongoose": "^5.13.14",
     "slug": "^0.9.1"
   }
 }
